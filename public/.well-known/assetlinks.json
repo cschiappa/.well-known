@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pets_social",
+      "sha256_cert_fingerprints": [
+        "92:96:BB:1A:A2:AD:34:EA:61:C0:20:9D:5E:55:C1:BA:5D:52:09:1C:63:36:F8:0B:F9:CD:54:35:7F:69:57:AD"
+      ]
+    }
+  }
+]
