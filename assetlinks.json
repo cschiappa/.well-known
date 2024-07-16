@@ -4,7 +4,7 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "android_app",
+      "namespace": "com.pets_social",
       "package_name": "com.pets_social",
       "sha256_cert_fingerprints": [
         "F3:CB:F0:BA:BA:39:E5:CF:AB:D0:39:8D:F0:56:DC:BD:74:81:88:32:7E:4A:02:DD:A5:31:45:57:C8:6B:C5:28"
